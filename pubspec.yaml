@@ -1,0 +1,31 @@
+name: hackrx
+description: A new Flutter application.
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animated_text_kit: ^2.0.1
+  flare_flutter: ^2.0.3
+  curved_navigation_bar: ^0.3.2
+  firebase_auth: ^0.16.1
+  cupertino_icons: ^0.1.2
+  cloud_firestore: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico-Regular.ttf

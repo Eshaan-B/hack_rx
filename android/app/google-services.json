@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656909306212",
+    "firebase_url": "https://healthrx-d3b40.firebaseio.com",
+    "project_id": "healthrx-d3b40",
+    "storage_bucket": "healthrx-d3b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656909306212:android:e60f9934e52b6e1a8a1271",
+        "android_client_info": {
+          "package_name": "bhardwajeshaan.hackrx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656909306212-tdnqpmgl4bq3d3t6408min2lmo881sk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9vGLVOGcolcUG1GHNU_ZJEteEbJ6_8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656909306212-tdnqpmgl4bq3d3t6408min2lmo881sk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
